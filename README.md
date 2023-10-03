@@ -21,3 +21,5 @@
         import matplotlib.pyplot as plt
     ```
 
+3. Plot the data
+
